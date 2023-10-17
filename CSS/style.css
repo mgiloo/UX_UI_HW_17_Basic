@@ -1,15 +1,19 @@
 .inline-block{
     display: inline-block;
     vertical-align: top;
+    padding: 0 10px;
+    font-weight: 500;
+    color: gold;
 }
 .logo{
     width: 23%;
     padding: 1%;
     text-align: center;
 }
-.nav{
-    width: 73%;
+.navigation{
+    width: 100%;
     padding: 1%;
+    background-color: #21005D;
 }
 .ul{
     width: 50%;
@@ -45,9 +49,11 @@ p {
     font-size: 12pt;
   }
 
-.footer{
+footer{
     display: inline-block;
+    width: 100%;
     vertical-align: top;
     background-color: #373738;
     padding: 10px;
+    background-color: #21005D;
 }
